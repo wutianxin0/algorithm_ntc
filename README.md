@@ -43,4 +43,4 @@ double algorithm_ntc(ntc_val_t *val,unsigned int adc_val)
 ## 3、联系方式 & 感谢
 
 * 维护：wutianxin0
-* 主页：https://github.com/RT-Thread-packages/algorithm_ntc
+* 主页：https://github.com/wutianxin0/algorithm_ntc
